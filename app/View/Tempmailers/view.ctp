@@ -1,0 +1,1 @@
+<? echo $Tempmailer['Tempmailer']['content']; ?>

@@ -1,0 +1,1 @@
+<?php echo $email['Email']['html_content']; ?>

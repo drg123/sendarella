@@ -1,0 +1,3 @@
+$(function() {
+	$('#helpLink').attr("target", "");
+});
